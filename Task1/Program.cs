@@ -26,3 +26,4 @@ void ShowString(string[] words)
 string[] nani = { "Omae", "Wa", "Mou", "Shindeiru", "-_-" };
 
 ShowString(ThreeCharacters(nani));
+int Irina = "Molodec, tak derjat, testirovshik!"
